@@ -1,7 +1,7 @@
 #gc_content_calculator.py
 #Code_to_cal_gc_content_manually
 #define_seq
-dna_seq="ATGCATGCATGCATCGATCGATCGGCGCGCGCGCTA"
+dna_seq="ATGCATGCATGCATCGATCGATCGGCGCGCGCGCT"
 #count_g's_c'c
 g_count = dna_seq.count('G')
 c_count = dna_seq.count('C')
