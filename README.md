@@ -1,0 +1,2 @@
+# bioinformatics-scripts
+Reading DNA
