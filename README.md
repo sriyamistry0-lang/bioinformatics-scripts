@@ -1,4 +1,4 @@
-Neonatal Sepsis Transcriptomic Analysis
+Neonatal Sepsis Transcriptomic Analysis:
 I replicated a study on neonatal sepsis using Python (Shaw et al. 2025). My analysis focuses on how the body's immune response and blood clotting systems react during infection.
 
 Key Discoveries:
